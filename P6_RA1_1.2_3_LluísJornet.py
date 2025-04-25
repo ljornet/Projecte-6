@@ -1,0 +1,2 @@
+nom = input("Com et dius? ") # Aquesta línia mostra el missatge "Com et dius?" per pantalla i espera que l'usuari introdueixi algun text. El text que l'usuari escriu es guarda a la variable anomenada 'nom'.
+print("Hola", nom) # Aquesta línia mostra per pantalla la paraula "Hola" seguida del valor que s'ha guardat a la variable 'nom' (que és el nom que ha escrit l'usuari).
