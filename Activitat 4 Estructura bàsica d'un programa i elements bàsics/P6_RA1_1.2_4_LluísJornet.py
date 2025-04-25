@@ -1,0 +1,4 @@
+a = int(input("Número 1: ")) # Aquesta línia mostra el missatge "Número 1: " i espera que l'usuari introdueixi un nombre enter. Aquest nombre es guarda a la variable 'a'.
+b = int(input("Número 2: ")) # Aquesta línia mostra el missatge "Número 2: " i espera que l'usuari introdueixi un altre nombre enter. Aquest nombre es guarda a la variable 'b'.
+suma = a + b # Aquesta línia calcula la suma dels valors de les variables 'a' i 'b', i el resultat es guarda a la variable 'suma'.
+print("La suma és:", suma) # Aquesta línia mostra per pantalla el text "La suma és:" seguit del valor que s'ha calculat i guardat a la variable 'suma'.
